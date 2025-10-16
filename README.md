@@ -139,5 +139,4 @@ The project is divided into **four milestones** covering the entire lifecycle â€
 | Akash Singh | [@AkashSinghfeb21](https://github.com/AkashSinghfeb21) |
 | Aayush Vijay | [@Aayush5154](https://github.com/Aayush5154) |
 | Nikitha Jacob | [@nikithajl](https://github.com/nikithajl) |
-| Sri Shanya | *(GitHub link not provided)* |
 ðŸ“Š *RoadSafe Analytics: Road Accidents - Exploratory Data Analysis (EDA)*  
